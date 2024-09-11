@@ -3,7 +3,7 @@ header{
     background-size: 1500px;
     /*background-position: 0 -200px;*/
     background-repeat: no-repeat;
-    height: 400px; /*giving header some height to display the background image*/
+    /*height: 400px; /*giving header some height to display the background image*/
     padding-top: 100px;
     padding-left: 100px;
     font-weight:bold;
@@ -37,7 +37,7 @@ nav {
     padding-top: 2px;
 }
 main {
-    height: 400px; /*give some height to get a better sense if how the page could look like*/
+  /*  height: 400px; /*give some height to get a better sense if how the page could look like*/
 }
 main h1{
     color:rgb(129, 141, 179);
